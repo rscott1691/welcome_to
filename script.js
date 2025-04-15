@@ -8,4 +8,4 @@ function addText(text, x, y) {
 }
 
 // Example of dynamically added text
-addText("Dynamic Label", 300, 400);
+
