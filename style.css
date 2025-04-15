@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#background-container {
+  position: relative;
+  width: 800px;
+  height: 600px;
+  margin: 20px auto;
+  background-image: url('your-image.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 1px solid #ccc;
+}
+
+.label {
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 4px 8px;
+  border-radius: 4px;
+}
