@@ -23,3 +23,11 @@ body {
   padding: 4px 8px;
   border-radius: 4px;
 }
+
+.temp-input {
+  border: 1px solid #aaa;
+  background: white;
+  color: black;
+  font-family: sans-serif;
+}
+
